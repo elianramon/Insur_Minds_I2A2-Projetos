@@ -59,4 +59,4 @@ ______________
 
 • E o resumo ficou bom? Fez sentido?
 - DeepSeak fez os resumos sem quaisquer erros.
-- Gemini e ChatGPT, após primeiro texto, começaram o entregar resumos sobre o contexto de escrita e autor, trazendo informação de fora do texto.
+- Gemini e ChatGPT, após o primeiro texto, começaram a entregar resumos sobre o contexto de escrita e autor, trazendo informação de fora do texto.
